@@ -5,7 +5,7 @@
 ![screenshot](./src/assets/screenshot.png)
 
 # Préparation de l'environnement de dev (5 minutes)
-- **Forker** le repository Github du front end : https://github.com/bratosab/jokes-de-papa-ng-15 vers votre compte Github
+- **Forker** le repository Github du front end : https://github.com/bratosab/jokes-de-papa-ng15 vers votre compte Github
 - **Cloner** votre repo en local sur votre poste pour travailler dessus
 - **Installer** les dépendances `npm` et **lancer** le projet (Infos projet à la fin du readme)
 - **Cloner** le repository Github du back end : https://github.com/bratosab/api-best-dad-jokes
@@ -42,7 +42,7 @@ Sur la page d'un post affichant une blague (ex: `http://localhost:4200/post/chic
 
 # Les liens
 
-- Code Front : https://github.com/bratosab/jokes-de-papa-ng-15
+- Code Front : https://github.com/bratosab/jokes-de-papa-ng15
 - Code API : https://github.com/bratosab/api-best-dad-jokes 
 - Swagger api : http://localhost:3001/explorer/
 
