@@ -14,12 +14,13 @@ export class HomeComponent implements OnInit {
   posts: Post[] = postsMock
 
   constructor(
-    private route: ActivatedRoute,
+    // private route: ActivatedRoute,
     private postService: PostService
   ) { }
 
   ngOnInit(): void {
-    const slug = this.route.snapshot.paramMap.get('slug');
+    // const slug = this.route.snapshot.paramMap.get('slug');
+    // this.posts = this.postService.getPosts();
   }
 
 }

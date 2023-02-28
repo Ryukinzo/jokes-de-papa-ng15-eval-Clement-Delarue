@@ -5,7 +5,7 @@ import { PostComponent } from './post/post.component';
 
 const routes: Routes = [
   { path: '', component: HomeComponent },
-  { path: 'post/:slug', component: PostComponent },
+  { path: 'post/:id', component: PostComponent },
   // { path '**', component:}, //for 404 error
 ];
 
